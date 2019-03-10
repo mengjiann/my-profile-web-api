@@ -1,0 +1,16 @@
+= MengJiann's Profile Web API Documentation
+
+== Introduction
+This is the documentation for list of web APIs exposed for my profile.
+
+=== My Basic Profile
+My profile information.
+
+==== Sample Request
+include::{snippets}/me/http-request.adoc[]
+
+==== Sample Response
+include::{snippets}/me/http-response.adoc[]
+
+==== CURL sample
+include::{snippets}/me/curl-request.adoc[]
